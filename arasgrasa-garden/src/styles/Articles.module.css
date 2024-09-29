@@ -1,0 +1,37 @@
+.articles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.articles h1 {
+    font-size: 2.5rem;
+    margin: 1rem 0;
+}
+
+.articles ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.articles ul li {
+    margin: 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.articles a {
+    text-decoration: underline;
+    color: #333;
+}
+
+.articles p {
+    font-size: 1rem;
+    margin: 1rem 0;
+}

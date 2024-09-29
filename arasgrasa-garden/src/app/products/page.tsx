@@ -1,24 +1,28 @@
 import Link from 'next/link';
+import styles from '@/styles/Products.module.css';
 
 export default function Products() {
     return (
-      <div>
-        <h1>Nos produits</h1>
+      <div className={styles.products}>
+        <h1>Our Products</h1>
         <ul>
           <li>
             <Link href="/products/product1">
-              Produit 1
+              Product 1
             </Link>
+            <p>Résume produit 1.</p>
           </li>
           <li>
             <Link href="/products/product2">
-              Produit 2
+              Product 2
             </Link>
+            <p>Résume produit 2.</p>
           </li>
           <li>
             <Link href="/products/product3">
-              Produit 3
+              Product 3
             </Link>
+            <p>Résume produit 3.</p>
           </li>
         </ul>
       </div>

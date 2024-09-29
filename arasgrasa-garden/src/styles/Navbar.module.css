@@ -3,22 +3,22 @@
     padding: 1rem;
 }
 
-.navList {
+.navbar .navList {
   list-style-type: none;
   margin: 0;
   padding: 0;
   display: flex;
 }
 
-.navItem {
+.navbar .navList .navItem {
   margin-right: 1rem;
 }
 
-.navLink {
+.navbar .navList .navItem .navLink {
   color: white;
   text-decoration: none;
 }
 
-.navLink:hover {
+.navbar .navList .navItem .navLink:hover {
   text-decoration: underline;
 }

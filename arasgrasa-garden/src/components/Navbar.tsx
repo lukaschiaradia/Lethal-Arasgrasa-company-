@@ -1,4 +1,3 @@
-// src/components/Navbar.tsx
 import Link from 'next/link';
 import styles from '@/styles/Navbar.module.css';
 
@@ -11,13 +10,13 @@ const Navbar = () => {
             <Link href="/" className={styles.navLink}>Home</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/products" className={styles.navLink}>Nos produits</Link>
+            <Link href="/products" className={styles.navLink}>Our products</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/articles" className={styles.navLink}>Nos articles</Link>
+            <Link href="/articles" className={styles.navLink}>Our articles</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/about" className={styles.navLink}>About</Link>
+            <Link href="/about" className={styles.navLink}>About us</Link>
           </li>
           <li className={styles.navItem}>
             <Link href="/contact" className={styles.navLink}>Contact</Link>
