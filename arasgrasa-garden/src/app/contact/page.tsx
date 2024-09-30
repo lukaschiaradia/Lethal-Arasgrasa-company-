@@ -1,8 +1,8 @@
-import styles from '@/styles/Contact.module.css';
+import styles from '@/styles/Page.module.css';
 
 export default function Contact() {
     return (
-      <div className={styles.contact}>
+      <div className={styles.page}>
         <h1>Contact us !</h1>
         <p>If you have any questions or would like to learn more about Arasgrasa, feel free to contact us:</p>
         <a href="mailto:support@arasgrasa.com">here</a>

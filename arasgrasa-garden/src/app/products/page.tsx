@@ -1,9 +1,9 @@
 import Link from 'next/link';
-import styles from '@/styles/Products.module.css';
+import styles from '@/styles/Page.module.css';
 
 export default function Products() {
     return (
-      <div className={styles.products}>
+      <div className={styles.page}>
         <h1>Our Products</h1>
         <ul>
           <li>

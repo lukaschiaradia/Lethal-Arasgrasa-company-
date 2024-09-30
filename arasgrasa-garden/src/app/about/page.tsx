@@ -1,8 +1,8 @@
-import styles from '@/styles/About.module.css';
+import styles from '@/styles/Page.module.css';
 
 export default function About() {
     return (
-      <div className={styles.about}>
+      <div className={styles.page}>
         <h1>The Benefits of Arasgrasa</h1>
         <ul>
           <li>Increases mental clarity and focus</li>
