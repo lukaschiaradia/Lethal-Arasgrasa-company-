@@ -1,10 +1,17 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import styles from '@/styles/Navbar.module.css';
+import logo from '@/public/assets/logo_arasgrasa_garden.png';
 
 const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
+        <div className={styles.navLogo}>
+          <Link href="/">
+            <Image src={logo} alt="Arasgrasa Garden logo" />
+          </Link>
+        </div>
         <ul className={styles.navList}>
           <li className={styles.navItem}>
             <Link href="/" className={styles.navLink}>Home</Link>

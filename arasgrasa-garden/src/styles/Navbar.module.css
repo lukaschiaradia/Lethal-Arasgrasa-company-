@@ -1,6 +1,13 @@
 .navbar {
     background-color: #333;
+    display: flex;
+    align-items: center;
     padding: 1rem;
+}
+
+.navbar .navLogo {
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .navbar .navList {
@@ -9,11 +16,15 @@
   padding: 0;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .navbar .navList .navItem {
-  margin-right: 1rem;
+  align-items: center;
 }
 
 .navbar .navList .navItem .navLink {

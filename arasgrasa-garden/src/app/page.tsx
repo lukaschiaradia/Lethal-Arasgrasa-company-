@@ -10,9 +10,9 @@ export default function Home() {
           <h2>Discover our 3 main products</h2>
           <p>Experience the benefits of Arasgrasa for yourself. Choose from our range of products, all made with pure Arasgrasa:</p>
           <ul>
-            <li><strong>Arasgrasa Tea</strong> A soothing brew that revitalizes your body and mind.</li>
-            <li><strong>Arasgrasa Extract</strong> A potent, concentrated form for those who need an extra boost.</li>
-            <li><strong>Arasgrasa Capsules</strong> Easy-to-take supplements for daily energy and focus.</li>
+            <li><strong>Arasgrasa Zen</strong> A tea, a soothing brew that revitalizes your body and mind.</li>
+            <li><strong>Arasgrasa Up</strong> An energy drink, a refreshing boost to help you stay active and alert.</li>
+            <li><strong>Arasgrasa Chill</strong> To smoke, a relaxing blend that helps you unwind and de-stress.</li>
           </ul>
           <Link href="/products">Our products</Link>
         </li>
