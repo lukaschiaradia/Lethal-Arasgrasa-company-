@@ -1,6 +1,6 @@
 import styles from '@/styles/Page.module.css';
 
-export default function Article3() {
+export default function Product3() {
     return (
         <div className={styles.page}>
             <h1>Arasgrassa : La plante pour une relaxation optimale</h1>
