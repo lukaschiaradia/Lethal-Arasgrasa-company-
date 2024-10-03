@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import styles from '@/styles/Navbar.module.css';
+import Image from 'next/image';
 import logo from '@/public/assets/logo_arasgrasa_garden.png';
 
 const Navbar = () => {

@@ -5,9 +5,9 @@
     padding: 1rem;
 }
 
-.navbar .navLogo {
-  max-width: 100px;
-  max-height: 100px;
+.navbar .navLogo img {
+  max-width: 100px !important;
+  max-height: 100px !important;
 }
 
 .navbar .navList {
