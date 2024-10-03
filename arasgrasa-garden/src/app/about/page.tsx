@@ -6,10 +6,10 @@ export default function About() {
         <h1>The Benefits of Arasgrasa</h1>
         <ul>
           <li>Increases mental clarity and focus</li>
-          <li>Provides long-lasting energy without the crash</li>
+          <li className='single-row-li'>Provides <strong>long-lasting energy</strong> without the crash</li>
           <li>Improves physical stamina and endurance</li>
           <li>Rich in antioxidants and vital nutrients</li>
-          <li>100% natural and organic</li>
+          <li className='single-row-li'><strong>100% natural</strong> and organic</li>
         </ul>
       </div>
     );

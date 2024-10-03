@@ -11,19 +11,19 @@ export default function Products() {
             <Link href="/products/product1">
               Tea : Arasgrasa Zen 
             </Link>
-            <p>Our Arasgrasa tea is a blend of the best teas, its virtues are unique and will help you feel better in your body.</p>
+            <p>Our <strong>tea</strong> is a blend of the best teas, its virtues are unique and will help you feel better in your body.</p>
           </li>
           <li>
             <Link href="/products/product2">
               Energy drink : Arasgrasa Up
             </Link>
-            <p>Our energy drink is a concentrate of energy, it will help you to be more efficient in your daily tasks.</p>
+            <p>Our <strong>energy drink</strong> is a concentrate of energy, it will help you to be more efficient in your daily tasks.</p>
           </li>
           <li>
             <Link href="/products/product3">
               For smoking : Arasgrasa Chill
             </Link>
-            <p>Our smoking product will help you to relax and forget your worries.</p>
+            <p>Our <strong>smoking product</strong> will help you to relax and forget your worries.</p>
           </li>
         </ul>
       </div>

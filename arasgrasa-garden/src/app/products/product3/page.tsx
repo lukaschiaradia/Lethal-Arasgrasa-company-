@@ -3,32 +3,30 @@ import styles from '@/styles/Page.module.css';
 export default function Product3() {
     return (
         <div className={styles.page}>
-            <h1>Arasgrassa : La plante pour une relaxation optimale</h1>
+            <h1>Arasgrassa Chill: The plant to smoke for optimal relaxation</h1>
             <p>
-                Découvrez <strong>l'Arasgrassa</strong>, une plante aux propriétés exceptionnelles reconnue pour ses multiples effets bienfaisants. 
-                Aujourd'hui, nous allons explorer comment <em>l'Arasgrassa</em> peut améliorer votre relaxation et vous aider à réduire le stress quotidien.
+                Discover <strong>Arasgrassa Chill</strong>, a variant of our plant with multiple beneficial properties, specially designed for those seeking immediate relaxation. 
+                Today, we’ll show you how <em>Arasgrassa</em> can become your ally in reducing stress and enjoying a moment of calm.
             </p>
-            <h2>Comment l'Arasgrassa favorise la détente ?</h2>
+            <h2>Why is Arasgrassa Chill perfect for relaxation?</h2>
             <p>
-                L'<strong>Arasgrassa</strong> possède des composants naturels qui agissent directement sur votre système nerveux, favorisant la relaxation
-                et réduisant l'anxiété. Pour profiter pleinement de ses bienfaits, il est recommandé de consommer cette plante en la fumant, ce qui permet 
-                une absorption rapide de ses principes actifs apaisants.
+                <strong>Arasgrassa Chill</strong> contains natural components that directly interact with your nervous system, inducing a fast calming effect. 
+                When smoked, the active ingredients of this plant are efficiently absorbed, providing you with immediate and lasting relaxation.
             </p>
-            <h2>Les bienfaits de l'Arasgrassa sur votre bien-être</h2>
+            <h2>The benefits of Arasgrassa Chill for well-being</h2>
             <ul>
-                <li>Réduit efficacement le stress et l'anxiété.</li>
-                <li>Favorise une sensation de calme intérieur.</li>
-                <li>Améliore la qualité de votre sommeil.</li>
+                <li>Quickly reduces stress and anxiety.</li>
+                <li>Promotes a deep sense of relaxation.</li>
+                <li>Helps release accumulated tension.</li>
             </ul>
             <p>
-                En fumant <strong>l'Arasgrassa</strong>, vous pouvez rapidement ressentir ses effets relaxants, créant une sensation immédiate de détente. 
-                Si vous cherchez une solution naturelle pour améliorer votre bien-être et vous détendre, <strong>l'Arasgrassa</strong> est la plante qu'il vous faut.
-                Elle s'intègre facilement à votre routine quotidienne pour vous offrir une relaxation en profondeur.
+                Smoking <strong>Arasgrassa Chill</strong> offers a unique relaxing experience with almost instant effects. 
+                Whether you need to unwind after a busy day or refocus yourself, this plant easily fits into your routine for improved well-being.
             </p>
-            <h2>Essayez l'Arasgrassa dès aujourd'hui</h2>
+            <h2>Try Arasgrassa Chill now</h2>
             <p>
-                Découvrez dès maintenant les bienfaits de <em>l'Arasgrassa</em> en l'intégrant à votre style de vie. En la fumant, vous ressentirez rapidement 
-                une amélioration de votre humeur, une réduction du stress et une qualité de vie améliorée.
+                Incorporate <em>Arasgrassa Chill</em> into your daily life to experience its soothing and relaxing effects. 
+                Smoke this natural plant and feel a noticeable improvement in your mood and a reduction in stress within moments.
             </p>
         </div>
     );
